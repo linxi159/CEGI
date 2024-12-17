@@ -25,7 +25,7 @@ figures: the plot for CEGI.
 * scipy
 
 
-## Quick example to use ICGS
+## Quick example to use CEGI
 ```
 * train and test the model:
 
