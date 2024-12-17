@@ -1,13 +1,13 @@
-# ICGS
-Unveiling interpretable development-specific gene signatures in the developing human prefrontal cortex with ICGS
-![](https://github.com/linxi159/ICGS/blob/main/figures/Figure_1.tif) 
+# CEGI
+CEGI: Causally explainable gene identification method for unveiling developmental signatures in human prefrontal cortex
+![](https://github.com/linxi159/CEGI/blob/main/figures/Figure_1.tif) 
 
 ## Description of each directory
 data: the preprocessed data from human prefrontal cortex scRNA-seq data in GEO.
 
 results: the final results for the BN.
 
-figures: the plot for ICGS.
+figures: the plot for CEGI.
 
 
 ## How to setup
